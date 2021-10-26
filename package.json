@@ -10,7 +10,7 @@
     "prettier": "^2.4.1"
   },
   "devDependencies": {
-    "husky": "^4.2.5",
+    "husky": "^7.0.4",
     "lint-staged": "11.1.2",
     "skip-ci": "^1.0.4"
   },
